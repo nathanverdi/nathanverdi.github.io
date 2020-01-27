@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My First Site</title>
+    </head>
+    <body>
+<img src="CSC106%20Banner.jpg" alt="Site Banner">
+<table>
+    <thead>
+        <tr>
+            <th><img src="home.png"></th>
+            <th><img src="javascripts.png"></th>
+            <th><img src="apps.png"></th>
+            <th><img src="about.png"></th>
+        </tr>
+    </thead>
+<h1>Hello and welcome to my first Website!</h1>
+    <p>
+        Welcome to my Javascripts page! <br>
+        This is my <em>first</em> website in the beginning of my coding journey!
+        
+    </body>
+</html>
