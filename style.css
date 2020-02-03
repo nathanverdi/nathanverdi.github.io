@@ -1,6 +1,6 @@
  body {
             background-image: url("background.png");
-            width:800px
+            width:800px;
       }
 h1 {
     color: rgb("255,255,255")
@@ -15,14 +15,14 @@ h1 {
 }
 #selfimage {
   float:left
-  width:400px
+  width:400px;
 }
 #selfimage2 {
- float:right
+ float:left
 }
 #guitar {
  float:left
 }
 #piano {
- float:right
+ float:left
 }
