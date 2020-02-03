@@ -1,5 +1,8 @@
  body {
             background-image: url("background.png");
       }
+h1 {
+    color: rgb("255,255,255")
+}
 #navtable {width: 1132px;}
 #nav-td {width: 283px; text align center;}
