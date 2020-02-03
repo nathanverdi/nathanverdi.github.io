@@ -6,3 +6,15 @@ h1 {
 }
 #navtable {width: 800px;}
 #nav-td {width: 200px; text align center;}
+#selfimage {
+  float:left
+}
+#selfimage2 {
+ float:right
+}
+#guitar {
+ float:left
+}
+#piano {
+ float:right
+}
