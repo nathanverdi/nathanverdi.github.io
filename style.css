@@ -6,13 +6,15 @@ h1 {
 }
 #navtable {
  width: 800px;
- float:none
+ position:top
 }
-#nav-td 
-{width: 200px; text align center;
+#nav-td {
+ width: 200px; text align center;
+
 }
 #selfimage {
   float:left
+  width:400px
 }
 #selfimage2 {
  float:right
