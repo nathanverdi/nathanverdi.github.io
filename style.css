@@ -4,8 +4,13 @@
 h1 {
     color: rgb("255,255,255")
 }
-#navtable {width: 800px;}
-#nav-td {width: 200px; text align center;}
+#navtable {
+ width: 800px;
+ float:none
+}
+#nav-td 
+{width: 200px; text align center;
+}
 #selfimage {
   float:left
 }
