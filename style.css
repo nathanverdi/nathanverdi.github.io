@@ -1,7 +1,5 @@
-h2 {
-            color: rgb(0, 232, 15);
-    }  
-        
-body {
+ body {
             background-image: url("background.png");
       }
+#navtable {width: 200px;}
+#nav-td {width: 200px; text align center;}
