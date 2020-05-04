@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>javascripts</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    
+    <body>
+<img src="banner.jpg" alt="Site Banner">
+     
+<table id="nav-table">
+    <thead>
+        <tr>
+            <td id="nav-td">
+                <a href="https://nathanverdi.github.io/index.html">
+                <img src="home.png">
+                </a>
+                </td>
+            <td id="nav-td">
+                <a href="https://nathanverdi.github.io/javascripts.html">
+                <img src="Javascript.png">
+                </a>
+                </td>
+            <td id="nav-td"><a href="https://nathanverdi.github.io/apps.html">
+                <img src="Apps.png">
+                </a>
+                </td>
+            <td id="nav-td"><a href="https://nathanverdi.github.io/about.html">
+                <img src="About.png">
+                </a>
+                </td>
+        </tr>
+    </thead>
+</table>
+    
+    <p> 
+           <h1>Hello and welcome to my <strong>Final Project</strong>!</h1>
+       <h2> This program is my own version of the classic arcade game <strong>SNAKE</strong><br>
+       I coded this since it is one of my favorite retro games, <br>
+       and I knew I would be able to make it look sleek and modern <br>
+       The rules are simple, 
+       </h2>
+       <ul>
+          <li>Use the arrow keys to move</li>
+          <li>Avoid your tail and the walls</li>
+          <li>No reversing (traveling over your own tail)</li>
+       </ul>
+    </p>
+        <h2><a href="https://www.khanacademy.org/computer-programming/snake-game/5705949888528384">Snake Game</a></h2><script src="https://www.khanacademy.org/computer-programming/snake-game/5705949888528384/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p> 
+    </body>
+</html>
