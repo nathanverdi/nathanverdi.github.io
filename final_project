@@ -30,6 +30,10 @@
                 <img src="About.png">
                 </a>
                 </td>
+            <td id="nav-td"><a href="https://nathanverdi.github.io/final_project.html">
+                <img src="About.png">
+                </a>
+                </td>
         </tr>
     </thead>
 </table>
